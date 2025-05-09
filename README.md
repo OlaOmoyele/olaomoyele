@@ -4,7 +4,7 @@
 
 I'm a passionate learner currently diving into the world of software development. Always looking to collaborate on interesting projects and expand my skills!
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 **Currently Learning:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
